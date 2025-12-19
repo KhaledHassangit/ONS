@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.98" height="30.98" viewBox="0 0 30.98 30.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2f2f2;
+      }
+    </style>
+  </defs>
+  <g id="back-button" transform="translate(30.982 30.98) rotate(180)">
+    <path id="Path_98" data-name="Path 98" class="cls-1" d="M15.492,30.98A15.49,15.49,0,1,0,0,15.49,15.508,15.508,0,0,0,15.492,30.98Zm0-28.86A13.37,13.37,0,1,1,2.123,15.49,13.385,13.385,0,0,1,15.492,2.12Z"/>
+    <path id="Path_99" data-name="Path 99" class="cls-1" d="M57.231,74.03a1.06,1.06,0,1,0,1.5-1.5l-4.074-4.074h11.8a1.06,1.06,0,0,0,0-2.12h-11.8l4.075-4.075a1.06,1.06,0,0,0-1.5-1.5l-5.885,5.885a1.06,1.06,0,0,0,0,1.5Z" transform="translate(-43.82 -51.905)"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+@media (max-width: 665px) {
+  .responsive-class-info {
+    display: block !important;
+  }
+}
